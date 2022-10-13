@@ -1,0 +1,27 @@
+{
+  "name": "trybe-zoo-functions",
+  "version": "1.0.0",
+  "description": "#7 projeto da trybe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioBGalvao/trybe-zoo-functions.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Caio Barbosa Galvão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioBGalvao/trybe-zoo-functions/issues"
+  },
+  "homepage": "https://github.com/CaioBGalvao/trybe-zoo-functions#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
